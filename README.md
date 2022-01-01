@@ -9,13 +9,14 @@ _12_27_2021_ - RNN from scratch, PyTorch RNN (8.5-8.7) <br/>
 _12_28_2021_ - modern RNNS: GRU, LSTM, bidirectional (9) <br/>
 _12_29_2021_ - Attention (10) <br/>
 _12_30_2021_ - Linear NN: linear regression, softmax regression (3) <br/>
+_12_31_2021_ - Multilayer perceptron regularization (4) <br/>
 
 | Chapter |   |
 |---------|---|
 | 1       |   |
 | 2       | ✅ |
 | 3       | ✅ |
-| 4       |   |
+| 4       | ✅ |
 | 5       |   |
 | 6       | ✅ |
 | 7       |   |
