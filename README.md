@@ -10,6 +10,7 @@ _12_28_2021_ - modern RNNS: GRU, LSTM, bidirectional (9) <br/>
 _12_29_2021_ - Attention (10) <br/>
 _12_30_2021_ - Linear NN: linear regression, softmax regression (3) <br/>
 _12_31_2021_ - Multilayer perceptron regularization (4) <br/>
+_01_01_2022_ - Optimization algorithms, learning rate scheduling (11) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -23,7 +24,7 @@ _12_31_2021_ - Multilayer perceptron regularization (4) <br/>
 | 8       | ✅ |  _12_27_2021_  |
 | 9       | ✅ |  _12_28_2021_  |
 | 10      | ✅ |  _12_29_2021_  |
-| 11      |   |      |
+| 11      | ✅ |  _01_01_2022_    |
 | 12      |   |      |
 | 13      |   |      |
 | 14      |   |      |
