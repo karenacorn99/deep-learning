@@ -11,6 +11,7 @@ _12_29_2021_ - Attention (10) <br/>
 _12_30_2021_ - Linear NN: linear regression, softmax regression (3) <br/>
 _12_31_2021_ - Multilayer perceptron regularization (4) <br/>
 _01_01_2022_ - Optimization algorithms, learning rate scheduling (11) <br/>
+_01_02_2022_ - deep learning computation, layers, blocks, I/O, GPU (5) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -18,13 +19,13 @@ _01_01_2022_ - Optimization algorithms, learning rate scheduling (11) <br/>
 | 2       | ✅ |  _12_24_2021_  |
 | 3       | ✅ |  _12_30_2021_  |
 | 4       | ✅ |  _12_31_2021_  |
-| 5       |   |      |
+| 5       | ✅ |  _01_02_2022_  |
 | 6       | ✅ |  _12_25_2021_  |
 | 7       |   |      |
 | 8       | ✅ |  _12_27_2021_  |
 | 9       | ✅ |  _12_28_2021_  |
 | 10      | ✅ |  _12_29_2021_  |
-| 11      | ✅ |  _01_01_2022_    |
+| 11      | ✅ |  _01_01_2022_  |
 | 12      |   |      |
 | 13      |   |      |
 | 14      |   |      |
