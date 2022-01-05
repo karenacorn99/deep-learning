@@ -13,6 +13,7 @@ _12_31_2021_ - Multilayer perceptron regularization (4) <br/>
 _01_01_2022_ - Optimization algorithms, learning rate scheduling (11) <br/>
 _01_02_2022_ - deep learning computation, layers, blocks, I/O, GPU (5) <br/>
 _01_03_2022_ - recommender system (16) <br/>
+_01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -29,9 +30,9 @@ _01_03_2022_ - recommender system (16) <br/>
 | 11      | ✅ |  _01_01_2022_  |
 | 12      |   |      |
 | 13      |   |      |
-| 14      |   |      |
+| 14      | ✅ |  _01_04_2022_  |
 | 15      |   |      |
-| 16      | ✅ |  _01_03_2022_   |
+| 16      | ✅ |  _01_03_2022_  |
 | 17      |   |      |
 | 18      |   |      |
 | 19      |   |      |
