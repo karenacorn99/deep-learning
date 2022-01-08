@@ -14,6 +14,7 @@ _01_01_2022_ - Optimization algorithms, learning rate scheduling (11) <br/>
 _01_02_2022_ - deep learning computation, layers, blocks, I/O, GPU (5) <br/>
 _01_03_2022_ - recommender system (16) <br/>
 _01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
+_01_07_2022_ - modern CNN, AlexNet, VGG, NiN, GoogLeNet, batch normalization, ResNet, DenseNet (7) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -23,7 +24,7 @@ _01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
 | 4       | ✅ |  _12_31_2021_  |
 | 5       | ✅ |  _01_02_2022_  |
 | 6       | ✅ |  _12_25_2021_  |
-| 7       |   |      |
+| 7       | ✅ |  _01_07_2022_  |
 | 8       | ✅ |  _12_27_2021_  |
 | 9       | ✅ |  _12_28_2021_  |
 | 10      | ✅ |  _12_29_2021_  |
