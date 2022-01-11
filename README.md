@@ -15,6 +15,7 @@ _01_02_2022_ - deep learning computation, layers, blocks, I/O, GPU (5) <br/>
 _01_03_2022_ - recommender system (16) <br/>
 _01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
 _01_07_2022_ - modern CNN, AlexNet, VGG, NiN, GoogLeNet, batch normalization, ResNet, DenseNet (7) <br/>
+_01_10_2022_ - NLP applications, sentiment analysis, NLI (15) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -32,7 +33,7 @@ _01_07_2022_ - modern CNN, AlexNet, VGG, NiN, GoogLeNet, batch normalization, Re
 | 12      |   |      |
 | 13      |   |      |
 | 14      | ✅ |  _01_04_2022_  |
-| 15      |   |      |
+| 15      | ✅ |  _01_10_2022_  |
 | 16      | ✅ |  _01_03_2022_  |
 | 17      |   |      |
 | 18      |   |      |
