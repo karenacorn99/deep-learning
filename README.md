@@ -16,6 +16,7 @@ _01_03_2022_ - recommender system (16) <br/>
 _01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
 _01_07_2022_ - modern CNN, AlexNet, VGG, NiN, GoogLeNet, batch normalization, ResNet, DenseNet (7) <br/>
 _01_10_2022_ - NLP applications, sentiment analysis, NLI (15) <br/>
+_01_12_2022_ - GANs (17) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -35,6 +36,6 @@ _01_10_2022_ - NLP applications, sentiment analysis, NLI (15) <br/>
 | 14      | ✅ |  _01_04_2022_  |
 | 15      | ✅ |  _01_10_2022_  |
 | 16      | ✅ |  _01_03_2022_  |
-| 17      |   |      |
+| 17      | ✅ |  _01_12_2022_  |
 | 18      |   |      |
 | 19      |   |      |
