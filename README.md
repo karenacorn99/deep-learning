@@ -17,6 +17,7 @@ _01_04_2022_ - NLP pretraining, word2vec, GloVe, fastText, BERT (14) <br/>
 _01_07_2022_ - modern CNN, AlexNet, VGG, NiN, GoogLeNet, batch normalization, ResNet, DenseNet (7) <br/>
 _01_10_2022_ - NLP applications, sentiment analysis, NLI (15) <br/>
 _01_12_2022_ - GANs (17) <br/>
+_01_13_2022_ - computer vision overview (13) <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
@@ -32,7 +33,7 @@ _01_12_2022_ - GANs (17) <br/>
 | 10      | ✅ |  _12_29_2021_  |
 | 11      | ✅ |  _01_01_2022_  |
 | 12      |   |      |
-| 13      |   |      |
+| 13      | ✅ |  _01_13_2022_  |
 | 14      | ✅ |  _01_04_2022_  |
 | 15      | ✅ |  _01_10_2022_  |
 | 16      | ✅ |  _01_03_2022_  |
