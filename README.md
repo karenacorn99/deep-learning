@@ -19,6 +19,7 @@ _01_10_2022_ - NLP applications, sentiment analysis, NLI (15) <br/>
 _01_12_2022_ - GANs (17) <br/>
 _01_13_2022_ - computer vision overview (13) <br/>
 _01_14_2022_ - computational performance (12) <br/>
+_01_16_2022_ - Practical Machine Learning: Data I, Data II <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
