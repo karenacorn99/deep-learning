@@ -21,7 +21,8 @@ _01_13_2022_ - computer vision overview (13) <br/>
 _01_14_2022_ - computational performance (12) <br/>
 _01_16_2022_ - Practical Machine Learning: Data I, Data II <br/>
 _01_17_2022_ - Practical Machine Learning: Data III <br/>
-_01_17_2022_ - Practical Machine Learning: ML Model, Model Validation <br/>
+_01_18_2022_ - Practical Machine Learning: ML Model, Model Validation <br/>
+_01_19_2022_ - Practical Machine Learning: Complete 🚩 <br/>
 
 | Chapter |   | Date |
 |---------|---|------|
