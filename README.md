@@ -1,24 +1,24 @@
 ## Deep Learning Reading Log (cpsc 552)
 
-Reading List:
+### Reading List:
 ***
-Variations on SGD: <br/>
+#### Variations on SGD: <br/>
 [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) <br/>
 [Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c) <br/>
 ***
-Unsupervised Learning and Autoencoders: <br/>
+#### Unsupervised Learning and Autoencoders: <br/>
 Hinton and Salakhutdinov Science 2006 <br/>
 Coifman and Lafon Applied and Computational Harmonic Analysis 2006 <br/>
 Belkin & Niyogi, Neural Computation 2003 <br/>
 Alain & Bengio, JMLR 2014 <br/>
 ***
-Generative Models and VAEs: <br/>
+#### Generative Models and VAEs: <br/>
 Kingma & Welling ICLR 2014 <br/>
 Dziugaite et al.  UAI 2015 <br/>
 Bengio et al. NeurIPS 2013 <br/>
 Lopez et al. Nature Methods 2018 <br/>
 ***
-GANs:
+#### GANs: <br/>
 [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) <br/>
 [Maximizing likelihood is equivalent to minimizing KL-Divergence](https://agustinus.kristia.de/techblog/2017/01/26/kl-mle/) <br/>
 Goodfellow et al 2014 paper <br/>
@@ -31,7 +31,7 @@ Arjovsky et al 2017 paper <br/>
 [TraVeLGAN](https://arxiv.org/abs/1902.09631) <br/>
 [Conditional GAN](https://arxiv.org/pdf/1411.1784.pdf) <br/>
 ***
-CNNs: <br/>
+#### CNNs: <br/>
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) <br/>
 Szegedy et al. Going deeper with convolutions 2014 <br/>
 He et al. Deep Residual Learning for Image Recognition 2015 <br/>
@@ -39,14 +39,14 @@ Ronneberger et al.  U-Net: Convolutional Networks for Biomedical Image Segmentat
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) <br/>
 [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202) <br/>
 ***
-RNNs & LSTMs: <br/>
+#### RNNs & LSTMs: <br/>
 [word2vec](https://arxiv.org/abs/1301.3781) <br/>
 [Luong et al. 2015](https://arxiv.org/abs/1508.04025) <br/>
 [Hochreiter and Schmidhuber. 1997](https://www.bioinf.jku.at/publications/older/2604.pdf) <br/>
 [Attention in RNNs blog](https://medium.datadriveninvestor.com/attention-in-rnns-321fbcd64f05) <br/>
 [Understanding LSTMs blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) <br/>
 ***
-Transformers: <br/>
+#### Transformers: <br/>
 [Attention and its Different Forms](https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc) <br/>
 [Illustrated Transformers](http://jalammar.github.io/illustrated-transformer/) <br/>
 [Attention is All You Need](https://arxiv.org/abs/1706.03762) <br/>
@@ -56,7 +56,7 @@ Child et al. (Sparse Transformer) <br/>
 [Illustrateed GPT2](https://jalammar.github.io/illustrated-gpt2 (Links to an external site.)/) <br/>
 [The Journey of OpenAI GPT Models](https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2) <br/>
 ***
-Graph Neural Networks: <br/>
+#### Graph Neural Networks: <br/>
 Defferrard et al. Convolutional Neural Networks on Graphs <br/>
 Bruna et al. Spectral Networks and Locally Connected Networks on Graphs <br/>
 Hamilton et al. [Inductive Representation Learning on Large Graphs](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf) <br/>
@@ -69,14 +69,14 @@ Gao et al., ICML 2019 [Geometric Scattering for Graph Data Analysis](http://proc
 Min et al. NeurIPS 2020 [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://arxiv.org/pdf/2003.08414.pdf) <br/>
 Min et al. [Geometric Scattering Attention Networks](https://arxiv.org/abs/2010.15010)
 ***
-Neural ODEs: <br/>
+#### Neural ODEs: <br/>
 Chen et al. NeurIPS 2019 Neural Ordinary Differential Equations <br/>
 Tong et al. ICML 2020 TrajectoryNet <br/>
 Errico 1997 Adjoint Model <br/>
 [The Story of Adjoint Sensitivity Method from Meteorology](https://towardsdatascience.com/the-story-of-adjoint-sensitivity-method-from-meteorology-906ab2796c73) <br/>
 [Neural ODEs: breakdown of another deep learning breakthrough](https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795) <br/>
 ***
-Universality of Neural Networks: <br/>
+#### Universality of Neural Networks: <br/>
 DasGupta & Gupta 2002 Johnson <br/>
 [An Elementary Proof of a Theorem of Johnson and Lindenstrauss](https://cseweb.ucsd.edu/~dasgupta/papers/jl.pdf) <br/>
 Frankle & Carbin 2019 [THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS](https://arxiv.org/pdf/1803.03635.pdf) <br/>
@@ -89,7 +89,7 @@ Tishby. et al. Information Bottleneck Paper <br/>
 Gigante et al. M-PHATE Paper <br/>
 Goldfeld et al. Information Flow <br/>
 ***
-Generalization and Memorization: <br/>
+#### Generalization and Memorization: <br/>
 Belkin, et al. 2019 PNAS Reconciling Modern Machine-Learning Practice and The Classical Bias-Variance Tradeoff <br/>
 [Understanding Deep Learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf), Zhang et al ICLR 2017 <br/>
 [A closer look at memorization in deep networks](https://arxiv.org/pdf/1706.05394.pdf) Arpit et al 2017 <br/>
@@ -100,7 +100,7 @@ Belkin, et al. 2019 PNAS Reconciling Modern Machine-Learning Practice and The Cl
 [Rademacher complexity](http://www.cs.cmu.edu/~ (Links to an external site.)ninamf/ML11/lect1117.pdf) <br/>
 Chatterjee S. ICLR 2020 Coherent Gradients: An approach to understanding generalization in gradient descent-based optimization <br/>
 ***
-Neural Tanget Kernels: <br/>
+#### Neural Tanget Kernels: <br/>
 Jacot et al. Neural Tangent Kernel: Convergence and Generalization in Neural Networks, NeurIPS 2018 <br/>
 Chizat et al. On Lazy Training in Differentiable Programming NeurIPS 2019 <br/>
 Arora, Sanjeev, et al. On exact computation with an infinitely wide neural net NeurIPS 2019 <br/>
