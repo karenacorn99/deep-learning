@@ -1,3 +1,9 @@
+## Deep Learning Reading Log
+
+Reading List:
+
+[The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233)
+
 ## Deep Learning with D2L Materials
 
 Learning Log:
