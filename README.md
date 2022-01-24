@@ -59,12 +59,12 @@ Child et al. (Sparse Transformer) <br/>
 #### Graph Neural Networks: <br/>
 Defferrard et al. Convolutional Neural Networks on Graphs <br/>
 Bruna et al. Spectral Networks and Locally Connected Networks on Graphs <br/>
-Hamilton et al. [Inductive Representation Learning on Large Graphs](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf) <br/>
+✅ Hamilton et al. [Inductive Representation Learning on Large Graphs](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf) (GraphSage) <br/>
 Perozzi et al. Deep Walk <br/>
 Kipf & Welling, Semisupervised Graph Classifiation <br/>
 [Spectral Graph Convolution Explained and Implemented Step by Step](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801) <br/>
 [Anisotropic, Dynamic, Spectral and Multiscale Filters Defined on Graphs](https://towardsdatascience.com/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-2-be6d71d70f49) <br/>
-[A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) <br/>
+✅ [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) <br/>
 Gao et al., ICML 2019 [Geometric Scattering for Graph Data Analysis](http://proceedings.mlr.press/v97/gao19e/gao19e.pdf) <br/>
 Min et al. NeurIPS 2020 [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://arxiv.org/pdf/2003.08414.pdf) <br/>
 Min et al. [Geometric Scattering Attention Networks](https://arxiv.org/abs/2010.15010)
