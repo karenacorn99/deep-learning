@@ -3,8 +3,11 @@
 ### Reading List:
 ***
 #### Variations on SGD: <br/>
-[The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) <br/>
-[Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c) <br/>
+✅ [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233) <br/>
+✅ [Adam](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c) <br/>
+[Convergence, Loss Surface, and Optimization](https://www.youtube.com/watch?v=sd7qhTKIi4Y) <br/>
+[Acceleration, Regularization, and Normalization](https://www.youtube.com/watch?v=fChBkJ_UjRw) <br/>
+[Intro to Deep Learning](http://deeplearning.cs.cmu.edu/S22/index.html) [playlist](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) <br/>
 ***
 #### Unsupervised Learning and Autoencoders: <br/>
 Hinton and Salakhutdinov Science 2006 <br/>
