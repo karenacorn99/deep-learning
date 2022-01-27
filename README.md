@@ -10,10 +10,10 @@
 [Intro to Deep Learning](http://deeplearning.cs.cmu.edu/S22/index.html) [playlist](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) <br/>
 ***
 #### Unsupervised Learning and Autoencoders: <br/>
-Hinton and Salakhutdinov Science 2006 <br/>
-Coifman and Lafon Applied and Computational Harmonic Analysis 2006 <br/>
-Belkin & Niyogi, Neural Computation 2003 <br/>
-Alain & Bengio, JMLR 2014 <br/>
+✅ [Reducing the Dimensionality of Data with Neural Network](https://www.science.org/doi/full/10.1126/science.1127647) Hinton and Salakhutdinov Science 2006 <br/>
+✅ [Diffusion Maps](https://www.sciencedirect.com/science/article/pii/S1063520306000546) Coifman and Lafon Applied and Computational Harmonic Analysis 2006 [vid](https://www.youtube.com/watch?v=pevW0L-TEbg) <br/>
+[Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) Belkin & Niyogi, Neural Computation 2003 <br/>
+[What Regularized Auto-Encoders Learn from the Data-Generating Distribution](https://www.jmlr.org/papers/volume15/alain14a/alain14a.pdf) Alain & Bengio, JMLR 2014 <br/>
 ***
 #### Generative Models and VAEs: <br/>
 Kingma & Welling ICLR 2014 <br/>
