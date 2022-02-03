@@ -1,3 +1,11 @@
+## Computational Vision Reading Log (cpsc 667)
+
+### Reading List:
+***
+#### Color, shape, material <br/>
+✅ [Hue Geometry and Horizontal Connections](https://reader.elsevier.com/reader/sd/pii/S0893608004000814?token=B9DD04DDC1F837F5973AEAE0E66B3498021671D011F11E0C9B725E008D799070DF3E9A82B6E0030E0651A4F844B56248&originRegion=us-east-1&originCreation=20220203175715) <br/>
+✅ [Boundaries, shading, and border ownership: A cusp at their interaction](http://www.cs.yale.edu/homes/vision/zucker/papers/boundaries2009.pdf) <br/>
+
 ## Deep Learning Reading Log (cpsc 552)
 
 ### Reading List:
