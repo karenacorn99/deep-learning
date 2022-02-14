@@ -44,9 +44,9 @@ Arjovsky et al 2017 paper <br/>
 ***
 #### CNNs: <br/>
 [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) <br/>
-Szegedy et al. Going deeper with convolutions 2014 <br/>
-He et al. Deep Residual Learning for Image Recognition 2015 <br/>
-Ronneberger et al.  U-Net: Convolutional Networks for Biomedical Image Segmentation 2014 <br/>
+Szegedy et al. [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf) 2014 <br/>
+He et al. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) 2015 <br/>
+Ronneberger et al. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) 2014 <br/>
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) <br/>
 [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202) <br/>
 ***
